@@ -1,0 +1,1 @@
+using artificial intelligence gpt4 integrated into our operating system. in this case, it gives the artificial intelligence the opportunity to use all the functions of the servers and the device in the form of a program, giving commands in text form. The way it works is by using AI to take a command, process it, build a program for that command, and run it for installation.
